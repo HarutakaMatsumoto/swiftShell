@@ -3,6 +3,7 @@ This is the shell script of Swift. It's swifty, and you can use it with existing
 This is freandly of both of beginners and persons with experience.
 
 The goals are follows.
+
 ・The names of functions are orginal of shell representation, and swifty.
 ・The arguments of functions support all of shell's ones, and be swifty.
 ・The results of functions conform to shell's ones.
