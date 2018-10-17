@@ -1,7 +1,7 @@
 # swiftShell
 This is the shell script of Swift. It's swifty, and you can use it with existing codes seamlessly.  
 This is freandly of both of beginners and persons with experience.  
-The using image is like this.  
+A conceptual drawing is like this.  
 ```
 $ swift -I swiftShell
 Welcome to Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1). Type :help for assistance.
