@@ -1,5 +1,5 @@
 # swiftShell
-This is the shell script of Swift. It's swifty, and you can use it with existing codes seamlessly.  
+This library in Swift is the parfect substitute to shell script. It's swifty, and you can use it with existing codes seamlessly.  
 This is freandly of both of beginners and persons with experience.  
 A conceptual drawing is like this.  
 ```
