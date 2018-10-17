@@ -1,6 +1,17 @@
 # swiftShell
 This is the shell script of Swift. It's swifty, and you can use it with existing codes seamlessly.  
-This is freandly of both of beginners and persons with experience.
+This is freandly of both of beginners and persons with experience.  
+The using image is like this.  
+```
+$ swift -I swiftShell
+Welcome to Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1). Type :help for assistance.
+  1> list(of: NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true)[0])
+  text.txt
+  ・・・
+  2> makeDirectory("NewDirectory")
+  3> list()
+  NewDirectory
+```
 
 The goals are follows.
 - The names of functions are orginal of shell representation, and swifty.
